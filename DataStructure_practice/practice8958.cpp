@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 int main() {
-	int cnt=0, total = 0;
+	int cnt = 0, total = 0;
 	int n;
 	string s;
 	cin >> n;

@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-	int n,a;
+	int n, a;
 	cin >> n;//정수 개수 입력
 	int min = 1000001;
 	int max = -1000001;
